@@ -11,3 +11,7 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+gem "faraday-retry", "~> 2.3"
+
+gem "nokogiri", "~> 1.13"
